@@ -1,0 +1,23 @@
+/*body {
+	height: 100%;
+	width: 100%;
+}
+html {
+	height: 100%;
+	width: 100%;
+}*/
+#map-canvas {
+	height: 500px;
+	width: 100%;
+	/*margin: 1em;*/
+}
+#map-canvas img {
+	max-width: none;
+}
+#slider-el {
+	width: 100%;
+
+}	
+.units-row {
+	padding: 20px;
+}
